@@ -1,0 +1,8 @@
+C:\Sithum Kavinda\Self-Studies\Windows Services\WindowsService2\WindowsService2\bin\Debug\WindowsService2.exe.config
+C:\Sithum Kavinda\Self-Studies\Windows Services\WindowsService2\WindowsService2\bin\Debug\WindowsService2.exe
+C:\Sithum Kavinda\Self-Studies\Windows Services\WindowsService2\WindowsService2\bin\Debug\WindowsService2.pdb
+C:\Sithum Kavinda\Self-Studies\Windows Services\WindowsService2\WindowsService2\obj\Debug\WindowsService2.csprojResolveAssemblyReference.cache
+C:\Sithum Kavinda\Self-Studies\Windows Services\WindowsService2\WindowsService2\obj\Debug\WindowsService2.ProjectInstaller.resources
+C:\Sithum Kavinda\Self-Studies\Windows Services\WindowsService2\WindowsService2\obj\Debug\WindowsService2.csproj.GenerateResource.Cache
+C:\Sithum Kavinda\Self-Studies\Windows Services\WindowsService2\WindowsService2\obj\Debug\WindowsService2.exe
+C:\Sithum Kavinda\Self-Studies\Windows Services\WindowsService2\WindowsService2\obj\Debug\WindowsService2.pdb

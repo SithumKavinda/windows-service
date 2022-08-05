@@ -1,0 +1,23 @@
+﻿Installing assembly 'C:\Sithum Kavinda\Self-Studies\Windows Services\WindowsService2\WindowsService2\bin\Debug\WindowsService2.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Sithum Kavinda\Self-Studies\Windows Services\WindowsService2\WindowsService2\bin\Debug\WindowsService2.InstallLog
+   assemblypath = C:\Sithum Kavinda\Self-Studies\Windows Services\WindowsService2\WindowsService2\bin\Debug\WindowsService2.exe
+   logtoconsole = 
+Installing service MyWindowsService...
+Service MyWindowsService has been successfully installed.
+Creating EventLog source MyWindowsService in log Application...
+Committing assembly 'C:\Sithum Kavinda\Self-Studies\Windows Services\WindowsService2\WindowsService2\bin\Debug\WindowsService2.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Sithum Kavinda\Self-Studies\Windows Services\WindowsService2\WindowsService2\bin\Debug\WindowsService2.InstallLog
+   assemblypath = C:\Sithum Kavinda\Self-Studies\Windows Services\WindowsService2\WindowsService2\bin\Debug\WindowsService2.exe
+   logtoconsole = 
+Uninstalling assembly 'C:\Sithum Kavinda\Self-Studies\Windows Services\WindowsService2\WindowsService2\bin\Debug\WindowsService2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Sithum Kavinda\Self-Studies\Windows Services\WindowsService2\WindowsService2\bin\Debug\WindowsService2.InstallLog
+   assemblypath = C:\Sithum Kavinda\Self-Studies\Windows Services\WindowsService2\WindowsService2\bin\Debug\WindowsService2.exe
+Removing EventLog source MyWindowsService.
+Service MyWindowsService is being removed from the system...
+Service MyWindowsService was successfully removed from the system.
